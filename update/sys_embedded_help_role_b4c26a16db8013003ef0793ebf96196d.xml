@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_191536_gear_poc.appdata_user" name="x_191536_gear_poc.appdata_user">f0c26a16db8013003ef0793ebf96196b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-05 10:02:26</sys_created_on>
+        <sys_id>b4c26a16db8013003ef0793ebf96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f0c26a16db8013003ef0793ebf96196b</sys_name>
+        <sys_package display_value="GEAR_POC" source="x_191536_gear_poc">2411ea96db4013003ef0793ebf9619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GEAR_POC">2411ea96db4013003ef0793ebf9619d2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b4c26a16db8013003ef0793ebf96196d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-05 10:02:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="gear_state" table="x_191536_gear_poc_gearappdata" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gear_state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Waiting for approval</label>
+            <language>en</language>
+            <name>x_191536_gear_poc_gearappdata</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 08:26:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5df4a6cdb1013003ef0793ebf9619c4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 08:59:45</sys_updated_on>
+            <value>waiting for approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gear_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in progress</label>
+            <language>en</language>
+            <name>x_191536_gear_poc_gearappdata</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 08:59:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a879aa0db5013003ef0793ebf9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 08:59:45</sys_updated_on>
+            <value>WIP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gear_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed in GEAR</label>
+            <language>en</language>
+            <name>x_191536_gear_poc_gearappdata</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 08:59:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26879aa0db5013003ef0793ebf9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 08:59:45</sys_updated_on>
+            <value>COMPLETE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gear_state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Waiting for GEAR completion</label>
+            <language>en</language>
+            <name>x_191536_gear_poc_gearappdata</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 08:26:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55df4a6cdb1013003ef0793ebf9619c6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 08:59:45</sys_updated_on>
+            <value>waiting for gear completion</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>gear_state</element>
+            <name>x_191536_gear_poc_gearappdata</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 08:26:04</sys_created_on>
+            <sys_id>11df4a6cdb1013003ef0793ebf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>gear_state</sys_name>
+            <sys_package display_value="GEAR_POC" source="x_191536_gear_poc">2411ea96db4013003ef0793ebf9619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GEAR_POC">2411ea96db4013003ef0793ebf9619d2</sys_scope>
+            <sys_update_name>sys_choice_x_191536_gear_poc_gearappdata_gear_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 08:26:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

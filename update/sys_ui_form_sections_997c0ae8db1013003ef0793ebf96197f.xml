@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="997c0ae8db1013003ef0793ebf96197f" sys_domain="global" table="x_191536_gear_poc_gearappdata" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 08:11:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd7c0ae8db1013003ef0793ebf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_191536_gear_poc_gearappdata" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">997c0ae8db1013003ef0793ebf96197f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">13278a28db1013003ef0793ebf961991</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 08:11:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 08:11:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e97c0ae8db1013003ef0793ebf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_191536_gear_poc_gearappdata" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">997c0ae8db1013003ef0793ebf96197f</sys_ui_form>
+            <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 08:11:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_191536_gear_poc_gearappdata</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-12 08:11:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>997c0ae8db1013003ef0793ebf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_191536_gear_poc_gearappdata</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GEAR_POC" source="x_191536_gear_poc">2411ea96db4013003ef0793ebf9619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GEAR_POC">2411ea96db4013003ef0793ebf9619d2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_997c0ae8db1013003ef0793ebf96197f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-12 08:11:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
