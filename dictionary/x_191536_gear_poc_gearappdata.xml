@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="task" label="GearAppData" max_length="40" name="x_191536_gear_poc_gearappdata" type="collection">
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Application Deployment Type" mandatory="true" max_length="40" name="gear_appdeploymenttyp" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="AIG GS" label="Application Deployment Type" mandatory="true" max_length="40" name="gear_appdeploymenttyp" type="string">
             <choice>
                 <element label="Hosted at AIG GS" sequence="0" value="AIG GS"/>
                 <element label="Hosted at AMG" sequence="1" value="AMG"/>
@@ -14,22 +14,22 @@
                 <element label="Hosted at Subscribed Service (SaaS/PaaS)" sequence="8" value="(saas/paas)"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Application Name" mandatory="true" max_length="40" name="gear_appname" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Application Owner Email" mandatory="true" max_length="40" name="gear_appowneremail" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Application Owner Name" mandatory="true" max_length="40" name="gear_appownername" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="AA" label="Application Name" mandatory="true" max_length="40" name="gear_appname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="AA" label="Application Owner Email" mandatory="true" max_length="40" name="gear_appowneremail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="AA" label="Application Owner Name" mandatory="true" max_length="40" name="gear_appownername" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Business Information Officer (BIO) Name" max_length="40" name="gear_bio" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Business Unit" max_length="40" name="gear_businessunit" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Global App Id" mandatory="true" max_length="40" name="gear_globalappid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="AA" label="Global App Id" mandatory="true" max_length="40" name="gear_globalappid" type="string"/>
         <element label="Go Live Date" mandatory="true" max_length="40" name="gear_golivedate" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Nickname" mandatory="true" max_length="40" name="gear_nickname" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Application Portfolio Name" mandatory="true" max_length="40" name="gear_portfolioname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="AA" label="Nickname" mandatory="true" max_length="40" name="gear_nickname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="AA" label="Application Portfolio Name" mandatory="true" max_length="40" name="gear_portfolioname" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="GEAR State" max_length="40" name="gear_state" type="string">
             <choice>
                 <element label="Work in progress" sequence="0" value="WIP"/>
                 <element label="Completed in GEAR" sequence="1" value="COMPLETE"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Version" mandatory="true" max_length="40" name="gear_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="1.0" label="Version" mandatory="true" max_length="40" name="gear_version" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Requested for" max_length="40" name="u_string_1" reference="sys_user" type="reference"/>
     </element>
 </database>

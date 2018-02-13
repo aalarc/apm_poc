@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="GearCustomTable" max_length="40" name="x_191536_gear_poc_gearcustomtable" type="collection">
+        <element label="Custom Text" max_length="40" name="custom_text" type="string"/>
+        <element label="Gear_Timestamp" max_length="40" name="gear_timestamp" type="glide_date_time"/>
+        <element label="Global App ID" max_length="40" name="global_app_id" type="string"/>
+    </element>
+</database>

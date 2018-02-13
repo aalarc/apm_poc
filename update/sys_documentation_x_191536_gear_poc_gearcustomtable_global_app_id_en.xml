@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="global_app_id" label="Global App ID" language="en" table="x_191536_gear_poc_gearcustomtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>global_app_id</element>
+            <help/>
+            <hint/>
+            <label>Global App ID</label>
+            <language>en</language>
+            <name>x_191536_gear_poc_gearcustomtable</name>
+            <plural>Global App IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-13 06:29:56</sys_created_on>
+            <sys_id>79debef0db501300b63371efbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Global App ID</sys_name>
+            <sys_package display_value="GEAR_POC" source="x_191536_gear_poc">2411ea96db4013003ef0793ebf9619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GEAR_POC">2411ea96db4013003ef0793ebf9619d2</sys_scope>
+            <sys_update_name>sys_documentation_x_191536_gear_poc_gearcustomtable_global_app_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-13 06:29:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
