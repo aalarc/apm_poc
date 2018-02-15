@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Populate Portfolio choice list</description>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>Populate Portfolio</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   g_form.addOption('gear_portfolio', 'P&C', 'P&C');
+	g_form.addOption('gear_portfolio', 'UGC', 'UGC');
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-15 06:17:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6cee01addb101300b63371efbf961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Populate Portfolio</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GEAR_POC" source="x_191536_gear_poc">2411ea96db4013003ef0793ebf9619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GEAR_POC">2411ea96db4013003ef0793ebf9619d2</sys_scope>
+        <sys_update_name>sys_script_client_6cee01addb101300b63371efbf961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-15 06:17:26</sys_updated_on>
+        <table>x_191536_gear_poc_gearappdata</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

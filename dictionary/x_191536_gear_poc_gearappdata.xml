@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="GearAppData" max_length="40" name="x_191536_gear_poc_gearappdata" type="collection">
+    <element audit="true" extends="task" label="GearAppData" max_length="40" name="x_191536_gear_poc_gearappdata" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" default="AIG GS" label="Application Deployment Type" mandatory="true" max_length="40" name="gear_appdeploymenttyp" type="string">
             <choice>
                 <element label="Hosted at AIG GS" sequence="0" value="AIG GS"/>

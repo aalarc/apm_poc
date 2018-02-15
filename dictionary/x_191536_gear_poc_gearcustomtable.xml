@@ -4,5 +4,6 @@
         <element label="Custom Text" max_length="40" name="custom_text" type="string"/>
         <element label="Gear_Timestamp" max_length="40" name="gear_timestamp" type="glide_date_time"/>
         <element label="Global App ID" max_length="40" name="global_app_id" type="string"/>
+        <element default="40" label="Reference Task ID" max_length="40" name="reference_task_id" type="string"/>
     </element>
 </database>

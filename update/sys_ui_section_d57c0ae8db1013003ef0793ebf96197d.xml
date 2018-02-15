@@ -4,296 +4,310 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_globalappid</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>8f8e0d6ddb101300b63371efbf961985</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7d37daeddb901300b63371efbf961967</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>078e0d6ddb101300b63371efbf961986</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>fd37daeddb901300b63371efbf961967</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>878e0d6ddb101300b63371efbf961986</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7137daeddb901300b63371efbf961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>0b8e0d6ddb101300b63371efbf961986</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>f137daeddb901300b63371efbf961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_appname</element>
             <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>8b8e0d6ddb101300b63371efbf961986</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7537daeddb901300b63371efbf961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>0f8e0d6ddb101300b63371efbf961986</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>f537daeddb901300b63371efbf961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_nickname</element>
             <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>8f8e0d6ddb101300b63371efbf961986</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7937daeddb901300b63371efbf961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>038e0d6ddb101300b63371efbf961987</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>f937daeddb901300b63371efbf961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>838e0d6ddb101300b63371efbf961987</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7d37daeddb901300b63371efbf961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>078e0d6ddb101300b63371efbf961987</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>fd37daeddb901300b63371efbf961968</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_appownername</element>
             <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>878e0d6ddb101300b63371efbf961987</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7137daeddb901300b63371efbf961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_appdeploymenttyp</element>
             <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>0b8e0d6ddb101300b63371efbf961987</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>f137daeddb901300b63371efbf961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_golivedate</element>
             <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>8b8e0d6ddb101300b63371efbf961987</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7537daeddb901300b63371efbf961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_bio</element>
             <position>13</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>0f8e0d6ddb101300b63371efbf961987</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>f537daeddb901300b63371efbf961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>14</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>8f8e0d6ddb101300b63371efbf961987</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7937daeddb901300b63371efbf961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_appowneremail</element>
             <position>15</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>038e0d6ddb101300b63371efbf961988</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>f937daeddb901300b63371efbf961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_portfolio</element>
             <position>16</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>838e0d6ddb101300b63371efbf961988</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7d37daeddb901300b63371efbf961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_version</element>
             <position>17</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>078e0d6ddb101300b63371efbf961988</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>fd37daeddb901300b63371efbf961969</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>gear_businessunit</element>
             <position>18</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>878e0d6ddb101300b63371efbf961988</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7137daeddb901300b63371efbf96196a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>19</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>0b8e0d6ddb101300b63371efbf961988</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>f137daeddb901300b63371efbf96196a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
             <position>20</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-15 06:14:46</sys_created_on>
-            <sys_id>8b8e0d6ddb101300b63371efbf961988</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>7537daeddb901300b63371efbf96196a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-15 06:14:46</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>21</position>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2018-02-15 11:32:15</sys_created_on>
+            <sys_id>f537daeddb901300b63371efbf96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Application Details" display_value="Application Details" name="x_191536_gear_poc_gearappdata" sys_domain="global" view="Default view">d57c0ae8db1013003ef0793ebf96197d</sys_ui_section>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2018-02-15 11:32:15</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Application Details</caption>
