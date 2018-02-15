@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="gear_portfolioname" label="Application Portfolio Name" language="en" table="x_191536_gear_poc_gearappdata">
+    <sys_documentation element="gear_portfolio" label="Portolio" language="en" table="x_191536_gear_poc_gearappdata">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>gear_portfolioname</element>
+            <element>gear_portfolio</element>
             <help/>
             <hint/>
-            <label>Application Portfolio Name</label>
+            <label>Portolio</label>
             <language>en</language>
             <name>x_191536_gear_poc_gearappdata</name>
-            <plural>Application Portfolio Names</plural>
+            <plural>Portolios</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-12 08:11:20</sys_created_on>
-            <sys_id>297c4ae8db1013003ef0793ebf96190e</sys_id>
+            <sys_created_on>2018-02-15 06:14:45</sys_created_on>
+            <sys_id>fa8ec96ddb101300b63371efbf9619bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Application Portfolio Name</sys_name>
+            <sys_name>Portolio</sys_name>
             <sys_package display_value="GEAR_POC" source="x_191536_gear_poc">2411ea96db4013003ef0793ebf9619d2</sys_package>
             <sys_policy/>
             <sys_scope display_value="GEAR_POC">2411ea96db4013003ef0793ebf9619d2</sys_scope>
-            <sys_update_name>sys_documentation_x_191536_gear_poc_gearappdata_gear_portfolioname_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_191536_gear_poc_gearappdata_gear_portfolio_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-12 08:11:20</sys_updated_on>
+            <sys_updated_on>2018-02-15 06:14:45</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

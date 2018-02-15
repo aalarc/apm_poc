@@ -22,7 +22,9 @@
         <element attributes="edge_encryption_enabled=true" default="AA" label="Global App Id" mandatory="true" max_length="40" name="gear_globalappid" type="string"/>
         <element label="Go Live Date" mandatory="true" max_length="40" name="gear_golivedate" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" default="AA" label="Nickname" mandatory="true" max_length="40" name="gear_nickname" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="AA" label="Application Portfolio Name" mandatory="true" max_length="40" name="gear_portfolioname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Portolio" mandatory="true" max_length="40" name="gear_portfolio" type="string">
+            <choice/>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="GEAR State" max_length="40" name="gear_state" type="string">
             <choice>
                 <element label="Work in progress" sequence="0" value="WIP"/>
